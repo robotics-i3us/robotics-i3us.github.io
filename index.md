@@ -32,11 +32,26 @@ Sensor LiDAR con campo de visión de 360 grados (horizontal) y 30 grados (vertic
 
 La plataforma [TurtleBot II](https://www.turtlebot.com/turtlebot2/) es una plataforma de bajo coste para la experimentación en robótica móvil. El I3US dispone de seis kits TurtleBot II. En [este repositorio](https://github.com/robotics-i3us/turtle-i3us) se puede encontrar un paquete de ROS conteniendo todos los drivers, dependencias e instrucciones necesarias para la puesta en servicio de los TurtleBot adquiridos por el I3US.
 
+* [Página web del producto](https://www.turtlebot.com/turtlebot2/)
+* [Paquete oficial de ROS](http://wiki.ros.org/turtlebot)
+* [Paquete ROS del TurtleBot-I3US](https://github.com/robotics-i3us/turtle-i3us)
+
 Cada uno de los seis kits cuenta con los siguientes componentes:
 
 ### Base Kobuki
 
+Kobuki es una base móvil de bajo coste diseñada para la educación y la investigación en robótica. Las baterias a bordo proporcionan alimentación para un ordenador externo, así como para sensores y actuadores adicionales. La odometría de alta precisión, asistida por un giroscopio calibrado en fábrica, permite una navegación precisa.
+
+* [Página web del producto](https://www.roscomponents.com/en/mobile-robots/97-kobuki.html)
+* [Paquete oficial para ROS](https://github.com/yujinrobot/kobuki)
+
 ### Lidar 2D Sick TIM551-205001
+
+Sensor LiDAR 2D con un campo de visión de 270 grados horizontal, 8 metros de alcance y resolución angular de 1 grado. Conexión Ethernet con la CPU.
+
+* [Página web del producto](https://www.sick.com/es/es/soluciones-de-medicion-y-deteccion/sensores-2d-lidar/tim5xx/tim551-2050001/p/p343045)
+* [Paquete oficial para ROS](https://github.com/SICKAG/sick_scan)
+
 
 ### Lidar 2D RPLIDAR A3
 
