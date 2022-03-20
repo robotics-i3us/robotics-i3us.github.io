@@ -17,7 +17,10 @@ Dicho material ha sido adquirido con fondos FEDER Convocatoria Adquisición Equi
 
 ## RS-Lidar-16
 
+La aplicaciones principales del RS-LiDAR-16 son la conducción autónoma, la percepción del entorno de robots y el mapeo de UAV.
 
+* Página web del producto: [web](https://www.roscomponents.com/es/lidar-escaner-laser/251-rs-lidar-16.html)
+* Paquete oficial para ROS: [ros]( https://github.com/RoboSense-LiDAR/rslidar_sdk)  
 
 ## Plataforma TurtleBot II
 
