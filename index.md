@@ -13,7 +13,7 @@ En esta página se detalla el material disponible.
   * [CPU NUC i7](#cpu-nuc-i7)
 - [Plataforma XL-GEN](#plataforma-xl-gen)
 
-Dicho material ha sido adquirido con fondos FEDER Convocatoria Adquisición Equipamiento Científico-Técnico Infraestructuras: FEDER / Ministerio de Ciencia e Innovación y Universidades - Agencia Estatal de Investigación.
+Dicho material ha sido adquirido con fondos FEDER Convocatoria Adquisición Equipamiento Científico-Técnico Infraestructuras: FEDER / Ministerio de Ciencia e Innovación y Universidades - Agencia Estatal de Investigación EQC2019 - 6325.
 
 
 ## RS-Lidar-16
