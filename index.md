@@ -11,8 +11,8 @@ En esta página se detalla el material disponible.
   * [Lidar 2D RPLIDAR A3](#lidar-2d-rplidar-a3)
   * [Intel RealSense Depth Camera D435](#intel-realsense-depth-camera-d435)
   * [Nvidia Jetson AGX Xavier Developer Kit 32 GB](#nvidia-jetson-agx-xavier-developer-kit-32-gb)
-  * [NUC i5, 8Gb RAM 1Tb HD](#nuc-i5--8gb-ram-1tb-hd)
-  * [Monitor, teclado y ratón](#monitor--teclado-y-rat-n)
+  * [NUC i5 8Gb RAM 1Tb HD](#nuc-i5-8gb-ram-1tb-hd)
+  * [Monitor teclado y ratón](#monitor-teclado-y-rat-n)
 - [Plataforma XL-GEN](#plataforma-xl-gen)
 
 Dicho material ha sido adquirido con fondos FEDER Convocatoria Adquisición Equipamiento Científico-Técnico Infraestructuras: FEDER / Ministerio de Ciencia e Innovación y Universidades - Agencia Estatal de Investigación EQC2019 - 6325.
@@ -44,9 +44,9 @@ Cada uno de los seis kits cuenta con los siguientes componentes:
 
 ### Nvidia Jetson AGX Xavier Developer Kit 32 GB
 
-### NUC i5, 8Gb RAM 1Tb HD
+### NUC i5 8Gb RAM 1Tb HD
 
-### Monitor, teclado y ratón 
+### Monitor teclado y ratón 
 
 
 ## Plataforma XL-GEN
