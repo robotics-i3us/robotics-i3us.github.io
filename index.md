@@ -2,4 +2,6 @@ Entre las diversas líneas de investigación en Ingeniería Informática que apo
 
 Dicho material ha sido financiado por el Ministerio de Ciencia, Innovación y Universidades y fondos FEDER.
 
+![Image](images/sticker.png)
+
 En esta página se detalla el material disponible.
