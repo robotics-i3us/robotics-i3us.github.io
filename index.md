@@ -28,16 +28,23 @@ Sensor LiDAR con campo de visión de 360 grados (horizontal) y 30 grados (vertic
 
 ![turtlebot](images/turtlebot.jpeg)
 
+La plataforma [TurtleBot II](https://www.turtlebot.com/turtlebot2/) es una plataforma de bajo coste para la experimentación en robótica móvil. El I3US dispone de seis kits TurtleBot II. En [este repositorio](https://github.com/robotics-i3us/turtle-i3us) se puede encontrar un paquete de ROS conteniendo todos los drivers, dependencias e instrucciones necesarias para la puesta en servicio de los TurtleBot adquiridos por el I3US.
+
+Cada uno de los seis kits cuenta con los siguientes componentes:
+
 ### Base Kobuki
 
-### Lidar 2D TIM551-205001
+### Lidar 2D Sick TIM551-205001
 
 ### Lidar 2D RPLIDAR A3
 
 ### Intel RealSense Depth Camera D435
 
-### CPU NUC i7 
+### Nvidia Jetson AGX Xavier Developer Kit 32 GB
 
+### NUC i5, 8Gb RAM 1Tb HD
+
+### Monitor, teclado y ratón 
 
 
 ## Plataforma XL-GEN
