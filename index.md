@@ -26,6 +26,8 @@ Sensor LiDAR con campo de visión de 360 grados (horizontal) y 30 grados (vertic
 
 ## Plataforma TurtleBot II
 
+![turtlebot](images/turtlebot.jpeg)
+
 ### Base Kobuki
 
 ### Lidar 2D TIM551-205001
