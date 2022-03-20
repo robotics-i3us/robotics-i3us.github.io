@@ -12,7 +12,7 @@ En esta página se detalla el material disponible.
   * [Intel RealSense Depth Camera D435](#intel-realsense-depth-camera-d435)
   * [Nvidia Jetson AGX Xavier Developer Kit 32 GB](#nvidia-jetson-agx-xavier-developer-kit-32-gb)
   * [NUC i5, 8Gb RAM 1Tb HD](#nuc-i5-8gb-ram-1tb-hd)
-  * [Monitor, teclado y ratón](#monitor-teclado-y-ratón)
+  * [Monitor, teclado y ratón](#monitor,-teclado-y-ratón)
 - [Plataforma XL-GEN](#plataforma-xl-gen)
 
 Dicho material ha sido adquirido con fondos FEDER Convocatoria Adquisición Equipamiento Científico-Técnico Infraestructuras: FEDER / Ministerio de Ciencia e Innovación y Universidades - Agencia Estatal de Investigación EQC2019 - 6325.
@@ -46,7 +46,7 @@ Cada uno de los seis kits cuenta con los siguientes componentes:
 
 ### NUC i5 8Gb RAM 1Tb HD
 
-### Monitor teclado y ratón 
+### Monitor, teclado y ratón 
 
 
 ## Plataforma XL-GEN
