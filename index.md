@@ -47,7 +47,7 @@ Kobuki es una base móvil de bajo coste diseñada para la educación y la invest
 
 ### Lidar 2D Sick TIM551-205001
 
-Sensor LiDAR 2D con un campo de visión de 270 grados horizontal, 8 metros de alcance y resolución angular de 1 grado. Conexión Ethernet con la CPU.
+Sensor LiDAR 2D con un campo de visión de 270 grados horizontal, 8 metros de alcance y resolución angular de 1 grado. Conexión Ethernet.
 
 * [Página web del producto](https://www.sick.com/es/es/soluciones-de-medicion-y-deteccion/sensores-2d-lidar/tim5xx/tim551-2050001/p/p343045)
 * [Paquete oficial para ROS](https://github.com/SICKAG/sick_scan)
@@ -55,16 +55,36 @@ Sensor LiDAR 2D con un campo de visión de 270 grados horizontal, 8 metros de al
 
 ### Lidar 2D RPLIDAR A3
 
+Sensor LiDAR 2D con un campo de visión de 360 grados horizontal, 25 metros de alcance y resolución angular de 0.225 grados. Conexión USB.
+
+* [Página web del producto](https://www.slamtec.com/en/Lidar/A3)
+* [Paquete oficial para ROS](https://github.com/slamtec/rplidar_ros)
+
 ### Intel RealSense Depth Camera D435
 
-### Nvidia Jetson AGX Xavier Developer Kit 32 GB
+Cámara de profundidad estereoscópica con aplicaciones en la robótica, realidad aumentada y virtual. Alcance de 10 metros. Conexión USB.
+
+* [Página web del producto](https://www.intelrealsense.com/depth-camera-d435/)
+* [Paquete oficial para ROS](https://github.com/IntelRealSense/realsense-ros)
 
 ### NUC i5, 8Gb RAM, 1Tb HD
 
+La CPU a bordo del TurtleBot es un Intel NUC i5 con 8 Gb de RAM y 1 Tb de disco duro con conexión Wi-Fi y Ethernet, puertos USB 2.0 y 3.0, y salida HDMI. 
+
+### Nvidia Jetson AGX Xavier Developer Kit 32 GB
+
+*Sección en desarrollo*
+
+El kit Nvidia Jetson AGX Xavier permite manejar algoritmos de odometría visual, fusión de sensores, localización y cartografía digital, detección de obstáculos y planificación de rutas para robots de nueva generación. Cuenta con un rendimiento GPU de 32 TeraOPS (TOPS) de cálculo máximo y 750 Gbps de E/S de alta velocidad en un formato reducido de 100x87 mm.
+
+* [Página web del producto](https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-agx-xavier/)
+
 ### Monitor, teclado y ratón 
+
+Para facilitar el desarrollo de software y la preparación de experimentos, cada kit TurtleBot del I3US viene acompañado por un monitor, un teclado y un ratón, para que el usuario se pueda conectar con comodidad a la CPU a bordo o al kit Nvidia Jetson Xavier.  
 
 
 ## Plataforma XL-GEN
 
-
+*Sección en desarrollo*
 
