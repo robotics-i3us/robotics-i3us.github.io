@@ -1,6 +1,6 @@
 ![logo](images/logo.png)
 
-Entre las diversas líneas de investigación en Ingeniería Informática que apoya el [Instituto Universitario de Investigación en Ingeniería Informática de la Universidad de Sevilla](https://i3us.us.es/) (I3US), cabe destacar aquellas relacionadas con la Robótica, la Inteligencia Artificial y la Automatización. Con el fin de fomentar y facilitar la investigación en estas líneas, el I3US dispone de material e infraestructuras de robótica que pone al servicio de sus investigadores. Asimismo, la [siguiente página en Github](https://github.com/robotics-i3us) contiene respositorios de software libre creados y mantenidos por miembros del I3US para la óptima utilización del material de robótica.
+Entre las diversas líneas de investigación en Ingeniería Informática que apoya el [Instituto Universitario de Investigación en Ingeniería Informática de la Universidad de Sevilla](https://i3us.us.es/) (I3US), cabe destacar aquellas relacionadas con la Robótica, la Inteligencia Artificial y la Automatización. Con el fin de fomentar y apoyar la investigación en estas líneas, el I3US dispone de material e infraestructuras de robótica que pone al servicio de sus investigadores. Asimismo, la [siguiente página en Github](https://github.com/robotics-i3us) contiene respositorios de software libre creados y mantenidos por miembros del I3US para facilitar la utilización del material de robótica.
 
 En esta página se detalla el material disponible.
 
